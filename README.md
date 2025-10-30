@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on IT
 - 🌱 I’m currently learning AI prompt engieering
+- 👯 I’m looking to collaborate on freelancing business
+- 💬 Ask me about web and mobile development
+- 😄 Pronouns: He/him
 
 <!--
 **darnellcopeland18/darnellcopeland18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
