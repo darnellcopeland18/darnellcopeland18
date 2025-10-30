@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on freelancing business
 - 💬 Ask me about web and mobile development
 - 😄 Pronouns: He/him
-
+- ⚡ Fun fact: I love reading, running, swimming etc
 <!--
 **darnellcopeland18/darnellcopeland18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
